@@ -12,24 +12,24 @@ xubuntu1204.seed Preseed file for Xubuntu 12.04
 # Setup Order Ubuntu 12.04
 * [Select a language]
 * [Select your location]
-* [Configure the keyboard] (Detect Layout)
-* [Configure the keyboard] (Country of origin)
-* [Configure the keyboard] (Keyboard layout)
-* [Configure the network] (Hostname)
-* [Choose a mirror] (Ubuntu Country of Origin)
-* [Choose a mirror of the..] (Ubuntu archive mirror: us.archive.ubuntu.com)
-* [Choose a mirror of the..] (HTTP Proxy Information)
+* [Configure the keyboard] Detect Layout
+* [Configure the keyboard] Country of origin
+* [Configure the keyboard] Keyboard layout
+* [Configure the network]  Hostname
+* [Choose a mirror]  Ubuntu Country of Origin
+* [Choose a mirror of the..]  Ubuntu archive mirror: us.archive.ubuntu.com
+* [Choose a mirror of the..]  HTTP Proxy Information
 
-* [Setup users and passwords] (Full name)
-* [Setup users and passwords] (Username)
-* [Setup users and passwords] (Password 1)
-* [Setup users and passwords] (Password 2)
-* [Setup users and passwords] (Encrypt Home?)
+* [Setup users and passwords] Full name
+* [Setup users and passwords] Username
+* [Setup users and passwords] Password 1
+* [Setup users and passwords] Password 2
+* [Setup users and passwords] Encrypt Home?
 
-* [Configure the clock] (Time zone)
-* [Partition disks] (Partitioning Method: Guided, use entire disk)
-* [Partition disks] (Which disk?)
-* [Partition disks] (Write changes?)
+* [Configure the clock] Time zone
+* [Partition disks] Partitioning Method: Guided, use entire disk
+* [Partition disks] Which disk?
+* [Partition disks] Write changes?
 
 
 # Online Resources
