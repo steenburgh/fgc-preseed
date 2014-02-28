@@ -71,6 +71,13 @@ d-i user-setup/encrypt-home boolean false
 
 
 ### Partitioning
+# If one of the disks that are going to be automatically partitioned
+# contains an old LVM configuration or Software RAID data, the user will normally receive a
+# warning.
+# Software RAID can be preseeded away
+d-i partman-md/device_remove_md boolean true
+
+# Continue regular partitioning
 d-i partman-auto/method string regular
 d-i partman-auto/init_automatically_partition select biggest_free
 
