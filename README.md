@@ -1,6 +1,5 @@
 # Preseed Configuration Files for DebianInstaller
 
-
 ## Description
 One of The Debian Project's most powerful features is the ability to customize and automate installations using the DebianInstaller system. Many [Debian-based](https://debian.org) GNU/Linux distributions, including Ubuntu, use DebianInstaller (or some derivitative) for system installation. The configuration file to customize and automate the DebianInstaller is known as a preseed file. This repository includes customized preseed files for use at FreeGeek Chicago. YMMV.
 
@@ -9,7 +8,7 @@ One of The Debian Project's most powerful features is the ability to customize a
 * xubuntu1204.seed Preseed file for Xubuntu 12.04
 
 
-# Setup Order Ubuntu 12.04
+## Setup Order Ubuntu 12.04
 * [Select a language]
 * [Select your location]
 * [Configure the keyboard] Detect Layout
@@ -32,8 +31,8 @@ One of The Debian Project's most powerful features is the ability to customize a
 * [Partition disks] Write changes?
 
 
-# Online Resources
-* http://wiki.debian.org/DebianInstaller/
+## Online Resources
+* [http://wiki.debian.org/DebianInstaller/](Debian Installer)
 * https://help.ubuntu.com/12.04/installation-guide/i386/preseed-intro.html
 * https://help.ubuntu.com/12.04/installation-guide/i386/appendix-preseed.html
 * https://help.ubuntu.com/12.10/installation-guide/i386/preseed-using.html#preseed-auto
