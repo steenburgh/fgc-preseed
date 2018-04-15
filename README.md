@@ -2,7 +2,7 @@
 
 
 ## Description
-One of The Debian Project's most powerful features is the ability to customize and automate installations using the DebianInstaller system. Many Debian-based GNU/Linux distributions, including Ubuntu, use DebianInstaller (or some derivitative) for system installation. The configuration file to customize and automate the DebianInstaller is known as a preseed file. This repository includes customized preseed files for use at FreeGeek Chicago. YMMV.
+One of The Debian Project's most powerful features is the ability to customize and automate installations using the DebianInstaller system. Many [Debian-based](https://debian.org) GNU/Linux distributions, including Ubuntu, use DebianInstaller (or some derivitative) for system installation. The configuration file to customize and automate the DebianInstaller is known as a preseed file. This repository includes customized preseed files for use at FreeGeek Chicago. YMMV.
 
 
 ## Files
