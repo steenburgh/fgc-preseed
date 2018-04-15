@@ -36,4 +36,4 @@ One of The Debian Project's most powerful features is the ability to customize a
 * https://help.ubuntu.com/12.04/installation-guide/i386/preseed-intro.html
 * https://help.ubuntu.com/12.04/installation-guide/i386/appendix-preseed.html
 * https://help.ubuntu.com/12.10/installation-guide/i386/preseed-using.html#preseed-auto
-* https://help.ubuntu.com/12.04/installation-guide/example-preseed.txt
+* [An Example of Preseed](https://help.ubuntu.com/lts/installation-guide/example-preseed.txt) from [ubuntu.com](https://ubuntu.com).
