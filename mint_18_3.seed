@@ -38,7 +38,13 @@ d-i passwd/user-password password password
 d-i passwd/user-password-again password password
 d-i netcfg/get_hostname string freegeekchicago
 
+### Boot loader installation
+# Make grub install automatically to the MBR
+# if no other operating system is detected on the machine.
+d-i grub-installer/only_debian boolean true
+
 ### Finishing up the installation
 # Avoid that last message about the install being complete.
 ubiquity ubiquity/summary note
-ubiquity ubiquity/reboot boolean true
+# Uncomment the below line to skip the 'restart now' dialog
+# ubiquity ubiquity/reboot boolean true
